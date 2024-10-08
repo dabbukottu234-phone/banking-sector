@@ -16,4 +16,4 @@ y = temp;
 System.out.println("After Swapping\nz = "+z+"\ny = "+y);
 }
 }
-
+# pavan write this program
