@@ -16,4 +16,6 @@ y = temp;
 System.out.println("After Swapping\nz = "+z+"\ny = "+y);
 }
 }
-# pavan write this program
+# pavan write this program 
+  # routing is a variables by using from root directory
+  
