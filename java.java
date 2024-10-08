@@ -18,4 +18,5 @@ System.out.println("After Swapping\nz = "+z+"\ny = "+y);
 }
 #  write this program swaping numbers
   # routing is a variables by using from root directory
+  # using for deploy server
   
